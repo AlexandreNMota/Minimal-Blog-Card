@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Sora:wght@100..800&display=swap");
+.container {
+  padding-top: 164px;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fafaf9;
+}
